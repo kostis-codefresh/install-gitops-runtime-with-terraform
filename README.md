@@ -1,5 +1,5 @@
 # Codefresh Runtime install
-How to install a Codefresh GitOps runtime using Terraform instead of Helm
+How to install a Codefresh GitOps runtime using Terraform instead of the Helm CLI
 
 ## Prepare Terraform and parameters
 
